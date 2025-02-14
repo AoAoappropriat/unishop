@@ -1,0 +1,25 @@
+{
+	"pages": [
+		{
+		    "path" : "pages/index/start",
+		    "style": {
+				"navigationStyle": "custom"
+		    }
+		},
+		{
+		    "path" : "pages/shop/select",
+		    "style": {
+				"navigationBarTitleText":"选择门店"
+		    }
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app商城",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#FFFFFF"
+	},
+	"easycom": {
+
+    }
+}
